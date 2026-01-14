@@ -47,7 +47,7 @@ export default function Usluge() {
           </p>
 
           {/* Paketi - Namještaj */}
-          <h3 className="text-2xl sm:text-3xl font-bold text-gray-900 mb-8 text-center">Naši paketi čišćenja</h3>
+          <h3 className="text-2xl sm:text-3xl font-bold text-gray-900 mb-8 text-center">cjenik usluga</h3>
 
           <div className="grid lg:grid-cols-3 gap-6 sm:gap-8 mb-12">
             {/* Paket 1 - Mali paket */}
@@ -258,7 +258,7 @@ export default function Usluge() {
           </p>
 
           {/* Paketi */}
-          <h3 className="text-2xl sm:text-3xl font-bold text-gray-900 mb-8 text-center">Naši paketi čišćenja</h3>
+          <h3 className="text-2xl sm:text-3xl font-bold text-gray-900 mb-8 text-center">cjenik usluga</h3>
 
           <div className="grid lg:grid-cols-3 gap-6 sm:gap-8 mb-12">
             {/* Paket 1 */}
